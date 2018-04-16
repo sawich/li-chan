@@ -4,6 +4,10 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+yarn.lock
+config.*
+*.db
+settings.json
 
 # Runtime data
 pids
